@@ -22,6 +22,8 @@ public class EssaiGitHub1 {
         System.out.println("Modif 6");
         System.out.println("Modif 7");
         System.out.println("Modif 8");
+        System.out.println("Modif 9");
+        System.out.println("Modif 10");
         
     }
 }
